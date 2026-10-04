@@ -1,0 +1,7 @@
+TRAVERSAL TEST FILE
+
+This file is outside the knowledge-base directory.
+
+If the AI file-reading tool can return this content,
+the application has demonstrated a path traversal
+authorization failure.

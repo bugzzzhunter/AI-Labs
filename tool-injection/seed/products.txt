@@ -1,0 +1,10 @@
+ACME Products
+
+WorkflowPro
+An enterprise workflow automation platform.
+
+DataHub
+A fictional data management platform.
+
+SecureDesk
+A fictional IT service management platform.

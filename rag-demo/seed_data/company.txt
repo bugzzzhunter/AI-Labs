@@ -1,0 +1,7 @@
+Acme Corp was founded in 2015.
+
+The CEO is Jane Smith.
+
+The company develops AI software for healthcare providers.
+
+Headquarters are located in London.
