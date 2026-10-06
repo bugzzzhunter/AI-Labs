@@ -39,6 +39,7 @@ AI Labs/
     ├── lab_files/
     └── seed/
 ```
+*Refer A2A-RogueAgent README.md for it's project stucture.
 
 ## Applications
 
@@ -73,17 +74,25 @@ Run it with:
 streamlit run rag-demo/app.py
 ```
 
-### 3) Tool Injection / Path Traversal Lab
+### 3) Tool Abuse / Path Traversal Lab
 
-Location: `tool-injection/`
+Location: `tool-abuse/`
 
 This app demonstrates a vulnerable AI file-reading tool. The agent is expected to read files from a safe knowledge base, but the tool implementation permits unrestricted filename input, which can allow path traversal into files outside the allowed set.
 
 Run it with:
 
 ```bash
-streamlit run tool-injection/app.py
+streamlit run tool-abuse/app.py
 ```
+
+### 4) A2A-RogueAgent
+
+Location: `A2A-RogueAgent/`
+
+This app demonstrates a vulnerable A2A implementation for multi-agent architecture. It is possible to register a rogue agent and modify any data the agent has access to.   
+
+Refer to A2A-RogueAgent/README.md for more details.
 
 ## Setup
 
